@@ -1,0 +1,78 @@
+#gucci {
+    background-image: url(https://www.shutterstock.com/image-vector/abstract-black-luxury-background-vector-260nw-1738615100.jpg);
+    color: aliceblue;
+}
+
+#gucci1 {
+    height: 250px;
+    width: 250px;
+    padding-left: 40px;
+}
+
+#luios1 {
+    height: 250px;
+    width: 250px;
+    padding-left: 40px;
+}
+
+#nike1 {
+    height: 250px;
+    width: 250px;
+    padding-left: 40px;
+}
+
+body {
+    background-color: darkorchid;
+}
+
+h3 {
+    padding-left: 40px;
+}
+
+#nike2 {
+    background-image: url(https://media.giphy.com/headers/nike/mPbbY4srw3HC.png);
+    padding: 85px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 10px;
+    text-align: left;
+}
+
+#nike3 {
+    color: aliceblue;
+}
+
+#brands {
+    background-color: aliceblue;
+}
+
+#gucci2 {
+    background-image: url(https://wallpaper.dog/large/10779119.jpg);
+    color: red;
+}
+
+#gucci3 {
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 250px;
+    padding-left: 560px;
+
+}
+
+#gucci4 {
+    background-color: black;
+    color: red;
+}
+
+#lv {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoY2NUy2G8X8Jt5IXcPfnf3i8MtvTcaaUPA&usqp=CAU);
+    color: white;
+    text-align: center;
+}
+
+#lv2 {
+    height: 250px;
+    width: 250px;
+    padding-left: 10px;
+}
