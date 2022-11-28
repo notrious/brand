@@ -76,3 +76,56 @@ h3 {
     width: 250px;
     padding-left: 10px;
 }
+
+#louis2 {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+#louis3 {
+    background-color: black;
+    color: aliceblue;
+}
+
+#louis4 {
+    background-color: black;
+    color: aliceblue;
+}
+
+#louis5 {
+    background-color: black;
+    color: aliceblue;
+}
+
+body {
+    position: relative;
+}
+
+#louis6 {
+    height: 250px;
+    width: 250px;
+
+}
+
+#gross {
+    background-color: red;
+    color: black;
+}
+
+#vs {
+    background-color: cyan;
+    color: black;
+}
+
+#section {
+    background-color: black;
+    color: aliceblue;
+}
+
+#akon {
+
+    width: 1000px;
+    padding-left: 170px;
+
+}
